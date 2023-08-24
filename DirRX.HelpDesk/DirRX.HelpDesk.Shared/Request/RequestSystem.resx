@@ -82,4 +82,10 @@
   <data name="Property_Responsible" xml:space="preserve">
     <value>Responsible</value>
   </data>
+  <data name="Property_Index" xml:space="preserve">
+    <value>Index</value>
+  </data>
+  <data name="Property_Index2" xml:space="preserve">
+    <value>Index2</value>
+  </data>
 </root>

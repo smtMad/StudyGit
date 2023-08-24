@@ -157,6 +157,22 @@
       "IsRequired": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "6efd673a-c539-4edb-afe3-457e27b976dd"
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "5587b91d-e230-4714-bdca-65bb71a53870",
+      "Name": "Index",
+      "Code": "Index",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "000da674-3561-429d-9bcd-4671ee833730"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "0b32975f-1fb0-4735-9f31-93acca5d648b",
+      "Name": "Index2",
+      "Code": "Index2",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "5587b91d-e230-4714-bdca-65bb71a53870"
     }
   ],
   "PublicStructures": [],
