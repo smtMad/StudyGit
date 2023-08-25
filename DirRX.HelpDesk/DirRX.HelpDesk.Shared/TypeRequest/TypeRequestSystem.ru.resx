@@ -64,4 +64,7 @@
   <data name="Property_Property" xml:space="preserve">
     <value>Ответственный</value>
   </data>
+  <data name="Property_Note" xml:space="preserve">
+    <value>Примечание</value>
+  </data>
 </root>
